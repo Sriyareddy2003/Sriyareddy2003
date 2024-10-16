@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Data Analysis and Machine Learning
 - 🌱 I’m currently learning Natural Language Processing and Deep Learning
 - 💞️ I’m looking to collaborate on data science projects, Big data analysis
-- 📫 How to reach me through mail (sriyareddy533@gmail.com) & LinkedIn (sriya-reddy-guggilla)
+- 📫 How to reach me through mail (sriyareddy533@gmail.com) & LinkedIn (https://www.linkedin.com/in/sriya-reddy-guggilla/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Their is fun when you start cleaning the data 
 
